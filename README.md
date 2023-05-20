@@ -1,1 +1,1 @@
-# voxxed-test-2
+# Demo repository for my "Future-Proof Development" talk. 👋
