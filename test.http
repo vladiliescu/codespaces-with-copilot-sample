@@ -1,0 +1,16 @@
+
+### Root 
+GET http://localhost:8000
+
+### Create item
+PUT http://localhost:8000/items
+
+{
+    "name": "Item S",
+    "price": 42,
+    "description": "SQLITE BABY!"
+}
+
+### Get items
+
+GET http://localhost:8000/items
