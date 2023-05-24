@@ -9,7 +9,6 @@ data_store = {
     3: Item(name="Baz", price=50.2, description="Not the bartenders"),
 }
 
-
 @app.get("/")
 def read_root():
     return {"message": "Hello, World!"}
